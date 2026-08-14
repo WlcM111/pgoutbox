@@ -1,6 +1,6 @@
 module github.com/WlcM111/pgoutbox/kafka
 
-go 1.24
+go 1.26.6
 
 require github.com/segmentio/kafka-go v0.4.49
 
