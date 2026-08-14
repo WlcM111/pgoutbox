@@ -52,4 +52,4 @@ jobs:
       # с latest сборка может внезапно упасть после обновления линтера.
       - uses: golangci/golangci-lint-action@v8
         with:
-          version: v2.1.0
+          version: v2.12.2
